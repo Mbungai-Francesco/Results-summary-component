@@ -68,7 +68,7 @@ Still working on the responsiveness for this compinent. So as to make it fit on 
 
 ## Author
 
-- Website - [Forche Mbungai Francesco](https://www.your-site.com)
+- github - [Forche Mbungai Francesco](https://www.your-site.com)
 - Frontend Mentor - [@Mbungai-Francesco](https://www.frontendmentor.io/profile/Mbungai-Francesco)
 - Twitter - [@MbungaiF](https://www.twitter.com/MbungaiF)
 
