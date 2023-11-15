@@ -60,7 +60,7 @@ body{
 }
 .right p{
     width: 70%;
-    margin: auto;
+    margin: 1em auto;
     font-size: 18px;
     font-weight: 600;
     color:  hsl(241, 100%, 89%);
@@ -81,7 +81,7 @@ body{
 .summary{
     width: 80%;
     /* background-color: bisque; */
-    height: 70vh;
+    /* height: 70vh; */
     position: relative;
     left: 20%;
 }
